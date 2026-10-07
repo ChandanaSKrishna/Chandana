@@ -41,5 +41,5 @@ business challenges.
 
 ### 📫 Connect With Me
 
-- LinkedIn: [linkedin.com/in/chandanas-krishna]
-- Email: [cskrishna217@gmail.com]
+- [LinkedIn](linkedin.com/in/chandanas-krishna)
+- Email: cskrishna217@gmail.com
