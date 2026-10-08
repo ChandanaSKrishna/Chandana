@@ -13,17 +13,7 @@ data analytics projects focused on turning raw data into meaningful insights.
 - **Database:** MySQL
 - **Tools:** Git, GitHub, VS Code
 
-### 📊 Featured Project
 
-####  Job Market Intelligence : India Job Postings & Salary Analysis
-
-An end-to-end data analytics project analyzing 835 job postings to
-understand job trends, salary patterns, salary disclosure and
-analytics-related hiring patterns.
-
-**Tools:** Python | SQL | Power BI | DAX
-
-🔗 [View Project](./Job-Market-Intelligence)
 
 ### 📚 Currently Learning
 
